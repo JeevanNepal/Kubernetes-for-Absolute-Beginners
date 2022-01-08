@@ -25,3 +25,7 @@ While using Minikube with  Virtualization technologies, specify the --vm-driver 
 
 minikube start --vm-driver=<driver_name>
 More about it here: https://kubernetes.io/docs/setup/learning-environment/minikube/#specifying-the-vm-driver
+
+
+
+A POD is a single instance of an application.
