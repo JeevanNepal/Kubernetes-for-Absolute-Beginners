@@ -5,7 +5,8 @@
 What is kubernetes?
 Ans: 
 
-
+WHat is minikube?
+Minikube is an open source tool that enables you to run Kubernetes on your laptop or other local machine.
 
 
 The upcoming demo is completely optional, unless you want to setup a local environment on your laptop. Our hands-on labs will be sufficient for you to practice.
