@@ -1,3 +1,8 @@
+What is YAML?
+    YAML is a data serialization language that is often used for writing configuration files. Depending on whom you ask, 
+    YAML stands for yet another markup language or YAML ain't markup language (a recursive acronym), which emphasizes that YAML is for data, not documents
+
+
 Yaml Files:
 
 Dictionsries & List/Arrays.
