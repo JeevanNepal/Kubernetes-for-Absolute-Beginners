@@ -1,0 +1,20 @@
+Yaml Files:
+
+Dictionsries & List/Arrays.
+
+Dictionary is an unordered list:
+  ex: 
+      Apple         Apple
+      Mango         Banana
+      Banana        Mango
+      
+      In dictionary it dosen't matter the ordered list.
+     
+     
+Array/Lists:
+    ex: 
+      Apple         Apple
+      Mango         Mango
+      Banana        Banana
+      
+       In array/list data types it must have the ordered list.
