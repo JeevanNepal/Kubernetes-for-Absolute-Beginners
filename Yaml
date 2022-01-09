@@ -56,3 +56,9 @@ Vegetables:
         Calories: 8
         Fat: 0.1
         Carbs: 1.9
+        
+To List the Pods:
+   kubectl get pods
+   
+To list more information on pods:
+  kubectl describe pod (pod name)myapp-pod.
