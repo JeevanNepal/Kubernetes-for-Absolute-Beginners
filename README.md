@@ -29,3 +29,13 @@ More about it here: https://kubernetes.io/docs/setup/learning-environment/miniku
 
 
 A POD is a single instance of an application.
+
+Create an NGINX Pod
+
+kubectl run nginx --image=nginx
+
+
+
+Kubernetes Concepts - https://kubernetes.io/docs/concepts/
+
+Pod Overview- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
