@@ -67,3 +67,28 @@ To List the Pods:
    
 To list more information on pods:
   kubectl describe pod (pod name)myapp-pod.
+  
+  
+  
+REPLICASET:
+
+Ex:
+  apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: frontend
+  labels:
+    app: mywebsite
+    tier: frontend
+spec:
+  replicas: 4
+  template:
+    metadata:
+      name: myapp-pod
+      labels:
+        app: myapp
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+  selector:
