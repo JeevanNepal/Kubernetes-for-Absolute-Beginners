@@ -92,3 +92,9 @@ spec:
         - name: nginx
           image: nginx
   selector:
+    matchLabels:
+      app: myapp
+      
+ Deployment Update & Rollback:
+ 
+ 
